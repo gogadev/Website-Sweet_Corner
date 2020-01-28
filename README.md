@@ -2,7 +2,7 @@
 
 Responsive Website (Online Pastry Shop) With Shopping Cart
 
-Preview Of The Website: 
+Preview Of The Project: 
 https://sweet-corner.netlify.com/
 
 ## Using
